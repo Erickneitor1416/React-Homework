@@ -2,7 +2,7 @@
 
 ## Conceptos Básicos de React
 
-React es una biblioteca de JavaScript ampliamente utilizada para construir interfaces de usuario interactivas y dinámicas, React también soporte con TypeScript. Aquí hay algunos conceptos clave que debes entender antes de profundizar en React:
+React es una biblioteca de JavaScript ampliamente utilizada para construir interfaces de usuario interactivas y dinámicas, React también soporte con TypeScript. Aquí hay algunos conceptos clave en React:
 
 ### Componentes
 
